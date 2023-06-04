@@ -24,8 +24,7 @@ html{
 	scroll-behavior: smooth;
 }
 
-
-/*Section One / Carousel*/
+W/*Section One / Carousel*/
 /*.carousel-item img{*/
 /*	height: 100vh;*/
 /*}*/
@@ -164,10 +163,10 @@ html{
 	}
 }
 @media screen and (min-width: 768px) and (max-width: 1020px) {
-	.flexSTwo>div{
-		min-width: 300px;
-		width: 100%;
-	}
+	/*.flexSTwo>div{*/
+	/*	min-width: 300px;*/
+	/*	width: 100%;*/
+	/*}*/
 	.carousel-item img {
 		width: 100%;
 		height: 60vh;
